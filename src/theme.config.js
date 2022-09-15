@@ -6,7 +6,7 @@ export default {
     { locale: 'en', text: 'English' },
     { locale: 'zh', text: '中文' }
   ],
-  github: 'https://github.com/spencerwooo/onedrive-vercel-index',
+  github: 'https://github.com/minterjia',
   projectLink: 'https://github.com/spencerwooo/onedrive-vercel-index',
   docsRepositoryBase:
     'https://github.com/spencerwooo/onedrive-vercel-index-docs/tree/main/src/pages',
@@ -35,5 +35,5 @@ export default {
   footer: true,
   defaultMenuCollapsed: true,
   footerEditLink: ({ locale }) => locale === 'zh' ? '前往 GitHub 编辑此页' : 'Edit this page on GitHub',
-  footerText: <>Built with love {new Date().getFullYear()} © Spencer Woo</>
+  footerText: <>Built with love {new Date().getFullYear()} © 米尔嘉</>
 }
