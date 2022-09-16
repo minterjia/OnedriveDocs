@@ -7,10 +7,10 @@ export default {
     { locale: 'zh', text: '中文' }
   ],
   github: 'https://github.com/minterjia',
-  projectLink: 'https://github.com/spencerwooo/onedrive-vercel-index',
+  projectLink: 'https://github.com/minterjia',
   docsRepositoryBase:
-    'https://github.com/spencerwooo/onedrive-vercel-index-docs/tree/main/src/pages',
-  titleSuffix: ' - OneDrive Vercel Index',
+    'https://github.com/minterjia',
+  titleSuffix: ' - 米尔嘉',
   logo: <Logo />,
   head: (
     <>
@@ -18,7 +18,7 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="OneDrive Vercel Index" />
+      <meta name="description" content="啊" />
       <meta name="apple-mobile-web-app-title" content="OneDrive Vercel Index" />
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
